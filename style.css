@@ -44,9 +44,12 @@ body {
 }
 
 .reset-score-button {
-    background-color: white;
+    background-color:rgb(21, 179, 0);
+    color: whitesmoke;
     border: none;
+    border-radius: 50px;
     font-size: 15px;
+    font-weight: bolder;
     padding: 8px 15px;
     cursor: pointer;
 }
